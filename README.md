@@ -10,3 +10,20 @@ I will use a combination of machine-learning-model-based insights and hypothesis
 - They only want to include information related to movies released in the United States.
 - They also did not want to include movies released before the year 2000.
 - The stakeholder is particularly interested in how the MPAA rating, genre(s), runtime, budget, and production companies influence movie revenue and user ratings.
+
+
+## Part 1- Initial IMDB Data Processing.ipynb
+### IMDB Movie Metadata
+I will download fresh movie metadata from IMDB's public datasets and filter out movies that meet the stakeholder's requirements/constraints.
+
+IMDB Provides Several Files with varied information for Movies, TV Shows, Made for TV Movies, etc.
+
+Overview/Data Dictionary: https://www.imdb.com/interfaces/
+
+Downloads page: https://datasets.imdbws.com/
+
+Files to use:
+
+- title.basics.tsv.gz
+- title.ratings.tsv.gz
+- title.akas.tsv.gz
