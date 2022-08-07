@@ -5,7 +5,7 @@ I have been hired to process and analyze IMDB's extensive publicly-available dat
 
 I will use a combination of machine-learning-model-based insights and hypothesis testing to extract insights for our stakeholders.
  
-Specifications/Constraints
+### Specifications/Constraints
 - The stakeholder wants to focus on attributes of the movies themselves vs. the actors and directors connected to those movies.
 - They only want to include information related to movies released in the United States.
 - They also did not want to include movies released before the year 2000.
