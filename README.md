@@ -27,3 +27,13 @@ Files to use:
 - title.basics.tsv.gz
 - title.ratings.tsv.gz
 - title.akas.tsv.gz
+
+## Part 2 - Extracting TMDB Data.ipynb (More to come)
+### Supplement Data from The Movie Database (TMDB)'s
+- I will extract MPAA rating and financial data for the movies using TMDB's API.
+
+## Part 3 - MySQL Database Construction (More to come)
+- I will then normalize all IMDB movie data into a proper MySQL database.
+
+## Part 4 - Hypothesis Testing (More to come)
+- I will then use the MySQL database to answer several hypotheses about movie success
